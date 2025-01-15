@@ -1,4 +1,4 @@
-# Code for *Event-Triggered Time-Varying Bayesian Optimization*
+# Event-Triggered Time-Varying Bayesian Optimization
 
 > _We are in the process of uploading the full code base. In the meantime, feel free to reach out if there are any questions!_
 
