@@ -4,7 +4,7 @@
 
 ![Overview of Event-Triggered Time-Varying Bayesian Optimization](examples/header.png "Overview of Event-Triggered Time-Varying Bayesian Optimization")
 
-This repo contains the python implementations of ET-GP-UCB using GPyTorch [1] and BoTorch [2]. This `README.md` will guide you through the process of reproducing the results from the paper "Event-Triggered Time-Varying Bayesian Optimization" published at [Transactions of Machine Learning Research (TMLR)](https://jmlr.org/tmlr/index.html).
+This repo contains the python implementations of ET-GP-UCB using GPyTorch [1] and BoTorch [2]. This `README.md` will guide you through the process of reproducing the results from the paper ["Event-Triggered Time-Varying Bayesian Optimization"](https://openreview.net/forum?id=WEYMCLu8u7) published at [Transactions of Machine Learning Research (TMLR)](https://jmlr.org/tmlr/index.html).
 
 If you find our code or paper useful, please consider citing
 
