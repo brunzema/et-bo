@@ -13,7 +13,7 @@ If you find our code or paper useful, please consider citing
   title={Event-Triggered Time-Varying {Bayesian} Optimization},
   author={Brunzema, Paul and Von Rohr, Alexander and Solowjow, Friedrich and Trimpe, Sebastian},
   journal={Transactions on Machine Learning Research (TMLR)},
-  year={2024},
+  year={2025},
 }
 ```
 
